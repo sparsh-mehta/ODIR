@@ -9,5 +9,5 @@ University of Calgary,
 Alberta, Canada.
 
 ## Code running instructions
-Step by directions for code reproducibility: [Code running instructions](instructions.ipynb)  
+Step by step directions for code reproducibility: [Code running instructions](instructions.ipynb)  
 The code can be found here: [code.ipynb](code.ipynb)
