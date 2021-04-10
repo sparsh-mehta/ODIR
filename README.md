@@ -1,9 +1,13 @@
 # ODIR
-Our submission for the Ocular Disease Intelligent Recognition (ODIR) problem on Kaggle, as a final project for ***ENEL 610***.  
+Our submission for the Ocular Disease Intelligent Recognition (ODIR) problem on Kaggle, as a final project for **ENEL 610**.  
 Authors-
-  1) Aditya Porwal
-  2) Sparsh Mehta 
+- Aditya Porwal
+- Sparsh Mehta 
 
 Department of Electrcal and Computer Engineering,  
 University of Calgary,  
 Alberta, Canada.
+
+## Code running instructions
+Step by directions for code reproducibility: [Code running instructions](instructions.ipynb)  
+The code can be found here: [code.ipynb](code.ipynb)
