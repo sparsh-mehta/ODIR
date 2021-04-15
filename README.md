@@ -1,5 +1,5 @@
 # ODIR
-Our submission for the Ocular Disease Intelligent Recognition (ODIR) problem on Kaggle, as a final project for **ENEL 610**.  
+Our submission for the Ocular Disease Intelligent Recognition (ODIR) problem on Kaggle, as a final project for the course- **ENEL 610**.  
 Authors-
 - Aditya Porwal
 - Sparsh Mehta 
